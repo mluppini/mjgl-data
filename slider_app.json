@@ -1,0 +1,37 @@
+{
+  "slides": [
+	{
+      "type": "img",
+      "src": "assets/slider_app/pub_agrorepuestos.jpg",
+      "duration_s": 15,
+      "transition": "fade",
+      "transition_ms": 800
+    },
+
+	  {
+      "type": "img",
+      "src": "assets/slider_app/pub_hvd.jpg",
+      "duration_s": 15,
+      "transition": "fade",
+      "transition_ms": 800
+    },
+
+	  {
+      "type": "img",
+      "src": "assets/slider_app/pub_mina_clavero_tour.jpg",
+      "duration_s": 15,
+      "transition": "fade",
+      "transition_ms": 800
+    },
+	  
+	  {
+      "type": "img",
+      "src": "assets/slider_app/pub_circulo_suboficiales.jpg",
+      "duration_s": 15,
+      "transition": "fade",
+      "transition_ms": 800
+    }
+	  
+	  
+  ]
+}

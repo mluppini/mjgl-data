@@ -1,0 +1,22 @@
+{
+  "slides": [
+	  
+	  {
+      "type": "img",
+      "src": "assets/slider_app/pub_agrorepuestos.jpg",
+      "duration_s": 20,
+      "transition": "fade",
+      "transition_ms": 800
+    },
+
+	  {
+      "type": "img",
+      "src": "assets/slider_app/pub_hvd.jpg",
+      "duration_s": 20,
+      "transition": "fade",
+      "transition_ms": 800
+    }
+
+	  	  
+  ]
+}
